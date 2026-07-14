@@ -1,5 +1,5 @@
 class Product(models.Model):
     productid = models.IntegerField()
     productname = models.CharField(max_length=100)
-    productprice = models.IntegerField()
+    productprices = models.IntegerField()
     productquantity = models.IntegerField()
