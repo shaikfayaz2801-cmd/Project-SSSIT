@@ -1,0 +1,5 @@
+class Mobile(models.Model):
+    mobileid = models.IntegerField()
+    mobilename = models.CharField(max_length=100)
+    brand = models.CharField(max_length=50)
+    price = models.IntegerField()

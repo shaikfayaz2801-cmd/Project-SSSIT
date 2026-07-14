@@ -1,0 +1,11 @@
+class Student(models.Model):
+	stuid=models.IntegerField()
+	stuname=models.CharField(max_length)
+	stumarks=models.IntegerField()
+	stuFees=models.IntegerField()
+class student{
+	stuname;
+	stuid;
+	stumarks;
+	stufees;
+}
