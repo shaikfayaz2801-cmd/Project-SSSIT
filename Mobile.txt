@@ -3,3 +3,8 @@ class Mobile(models.Model):
     mobilename = models.CharField(max_length=100)
     brand = models.CharField(max_length=50)
     price = models.IntegerField()
+class Product(models.Model):
+    productid = models.IntegerField()
+    productname = models.CharField(max_length=100)
+    productprices = models.IntegerField()
+    productquantity = models.IntegerField()
