@@ -1,11 +1,8 @@
-class Student(models.Model):
-	stuid=models.IntegerField()
-	stuname=models.CharField(max_length)
-	stumarks=models.IntegerField()
-	stuFees=models.IntegerField()
-class student{
-	stuname;
-	stuid;
-	stumarks;
-	stufees;
-}
+story 2 
+login added with errors need more time to solve them 
+
+
+
+
+
+--message to the TL 
