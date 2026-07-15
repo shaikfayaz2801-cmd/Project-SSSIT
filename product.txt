@@ -3,3 +3,4 @@ class Product(models.Model):
     productname = models.CharField(max_length=100)
     productprices = models.IntegerField()
     productquantity = models.IntegerField()
+def 2
