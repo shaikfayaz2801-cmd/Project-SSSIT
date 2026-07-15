@@ -1,16 +1,10 @@
-<<<<<<< Updated upstream
-story 2 
-login added with errors need more time to solve them 
-
-
-
-
-
---message to the TL 
-=======
 story 1 
+<<<<<<< Updated upstream
 user need to create the login page {
 done }
 >>>>>>> Stashed changes
 story 3
  hello
+=======
+hi
+>>>>>>> Stashed changes
