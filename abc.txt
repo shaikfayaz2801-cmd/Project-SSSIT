@@ -3,7 +3,7 @@ story 1
 user need to create the login page {
 done }
 >>>>>>> Stashed changes
-story 3
+story 2
  hello
 =======
 hi
