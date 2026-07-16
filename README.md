@@ -6,5 +6,5 @@ class def(request):
 
 &#x20;      return render("myapp"/student.html)
 
-
+story 2
 
