@@ -5,4 +5,4 @@ class Product(models.Model):
     productquantity = models.IntegerField()
 <<<<<<< Updated upstream
 def 2
-=====
+=====22
